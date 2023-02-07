@@ -45,7 +45,7 @@
     "react-flatpickr": "3.10.5",
     "react-flip-move": "^3.0.4",
     "react-popper": "^2.3.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.8.1",
     "react-transition-group": "^4.4.2",
     "tailwindcss": "^2.1.2",
     "terser-webpack-plugin": "^5.1.2",
